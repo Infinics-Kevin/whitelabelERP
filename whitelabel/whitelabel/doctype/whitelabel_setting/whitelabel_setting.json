@@ -102,6 +102,7 @@
    "label": "Disable New Update Popup"
   },
   {
+   "default": "InfinicsERP",
    "fieldname": "whitelabel_app_name",
    "fieldtype": "Data",
    "label": "Whitelabel App Name"
